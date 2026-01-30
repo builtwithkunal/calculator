@@ -1,9 +1,9 @@
-==> 🧮 Calculator
+# 🧮 Calculator
 
     A simple and user-friendly Calculator application built to perform basic arithmetic operations.
     This project is part of my learning journey in programming and problem-solving.
 
-==> 🚀 Features
+## 🚀 Features
 
     ➕ Addition
     
@@ -17,7 +17,7 @@
     
     ⚡ Fast and lightweight
 
-==> 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
     HTML – Structure
     
@@ -25,7 +25,7 @@
     
     JavaScript – Logic & functionality
 
-==>📂 Project Structure
+## 📂 Project Structure
 
     calculator/
     
@@ -38,7 +38,7 @@
     │── README.md
     
 
-==>▶️ How to Run
+## ▶️ How to Run
 
     Clone the repository:
     
@@ -52,7 +52,7 @@
     
     Open index.html in your browser
 
-==>🎯 Learning Objectives
+## 🎯 Learning Objectives
 
     Practice basic programming logic
     
@@ -62,7 +62,7 @@
     
     Build clean and readable code
 
-==>📌 Future Improvements
+## 📌 Future Improvements
 
     ➕ Keyboard input support
     
@@ -72,15 +72,15 @@
     
     📱 Mobile responsiveness
 
-==>🤝 Contributing
+## 🤝 Contributing
 
     Contributions, issues, and feature requests are welcome!
     Feel free to fork this repository and submit a pull request.
 
-==>👤 Author
+## 👤 Author
 
     Kunal
     📊 Data Science Enthusiast | 🔐 Cybersecurity Curious
     🚀 Learning by building projects
 
-⭐ If you like this project, don’t forget to star the repository!
+# ⭐ If you like this project, don’t forget to star the repository!
